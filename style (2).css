@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+.color_selector1{
+    color: blueviolet;
+    float: right;
+}
+.color_selector2{
+    color: yellowgreen;
+}
+.position{
+    color: cyan;
+    margin-left: 96px;
+}
+
+
+p{
+    color: chartreuse;
+}
